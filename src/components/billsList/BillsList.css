@@ -1,0 +1,24 @@
+h1 {
+    letter-spacing: 10px; 
+}
+.logo {
+    position: sticky;
+    height: 40px;
+}
+
+.container{
+    padding: 4rem;
+}
+.modal-dialog{
+    max-width: 90vw !important;
+}
+
+.modal-body{
+    padding: 2rem;
+}
+.fraishorsforfais{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
